@@ -1,0 +1,27 @@
+{
+    "titles": [
+        {
+            "title": "ALPHA",
+            "link": "google.com"
+        }, {
+            "title": "BETA",
+            "link": "google.com"            
+        }, {
+            "title": "CHARL",
+            "link": "google.com"                  
+        }, {
+            "title": "DELTA",
+            "link": "google.com"                  
+        }, {
+            "title": "ECHO",
+            "link": "google.com"                  
+        }, {
+            "title": "FOXT",
+            "link": "google.com"                  
+        }, {
+            "title": "GOLF",
+            "link": "google.com"                  
+        }
+
+    ]
+}

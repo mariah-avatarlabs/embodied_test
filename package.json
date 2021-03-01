@@ -16,7 +16,7 @@
     "pixi-filters": "^3.0.3",
     "pixi.js": "^5.1.5",
     "sass-loader": "^7.2.0",
-    "three": "^0.107.0",
+    "three": "^0.125.0",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3",
     "vuex": "^3.0.1",

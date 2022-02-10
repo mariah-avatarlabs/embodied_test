@@ -12,7 +12,7 @@
     "animejs": "^3.1.0",
     "core-js": "^2.6.10",
     "gsap": "^3.0.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "pixi-filters": "^3.0.3",
     "pixi.js": "^5.1.5",
     "sass-loader": "^7.2.0",
